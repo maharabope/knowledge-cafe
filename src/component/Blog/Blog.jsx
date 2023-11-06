@@ -1,6 +1,8 @@
 import PropTypes from 'prop-types';
+// import { CiBookmarkPlus } from 'react-icons/fa';
+import { FaRegBookmark } from 'react-icons/fa';
 
-const Blog = ({ blog }) => {
+const Blog = ({ blog, handelBookmark }) => {
 
     const { author_img, author_name, release_date, img, title, reading_time, hashtag }=blog;
 
@@ -17,8 +19,10 @@ const Blog = ({ blog }) => {
                     </div>
                     
                 </div>
-                <div>
+                <div className='flex gap-2'>
                     <p>0{reading_time} min read</p>
+                    <button onClick={()=>handelBookmark(blog)}><FaRegBookmark></FaRegBookmark></button>
+                    
                 </div>
                 
             </div>
@@ -29,7 +33,8 @@ const Blog = ({ blog }) => {
 };
 
 Blog.propTypes={
-    blog: PropTypes.object.isRequired
+    blog: PropTypes.object.isRequired,
+    handelBookmark: PropTypes.func
 }
 
 export default Blog;

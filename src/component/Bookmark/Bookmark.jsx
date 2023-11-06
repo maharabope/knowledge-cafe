@@ -1,11 +1,18 @@
 
+import PropTypes from 'prop-types';
 
-const Bookmark = () => {
+const Bookmark = ({bookmark})=> {
+    const{title}=bookmark
     return (
-        <div className="w-1/3">
-            hjkhk
+        <div className=''>
+            <p>{title}</p>
         </div>
     );
+};
+
+Bookmark.propTypes = {
+    bookmark: PropTypes.object.isRequired
+    
 };
 
 export default Bookmark;
