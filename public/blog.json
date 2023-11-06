@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "author_img": "https://i.ibb.co/ng1SMfj/DALL-E-2023-02-03-09-21-28-edit-your-parpos.png",
+      "author_name": "John Doe",
+      "release_date": "2023-11-01",
+      "img": "https://i.ibb.co/Wpf508P/clem-onojeghuo-zl-ABb6-Gke24-unsplash.jpg",
+      "title": "Lorem Ipsum: The Art of Filler Text",
+      "reading_time": 5,
+      "hashtag": "#LoremIpsum #Design #Typography"
+    },
+    {
+      "id": 2,
+      "author_img": "https://i.ibb.co/SvwWXyV/maharab-ope.png",
+      "author_name": "Jane Smith",
+      "release_date": "2023-11-02",
+      "img": "https://i.ibb.co/0XyQq4b/john-towner-Jg-Oe-Ru-GD-Y4-unsplash.jpg",
+      "title": "The Science of Fiction",
+      "reading_time": 8,
+      "hashtag": "#Science #Fiction #Writing"
+    },
+    {
+      "id": 3,
+      "author_img": "https://i.ibb.co/nDKSR3z/360-F-69736469-SABhp4-Wy1-Eu-Wbg-Lg7jwyv-Nuzl4-YBl-Cp4.jpg",
+      "author_name": "David Johnson",
+      "release_date": "2023-11-03",
+      "img": "https://i.ibb.co/w635XPw/online-blog.jpg",
+      "title": "Exploring Virtual Realities",
+      "reading_time": 7,
+      "hashtag": "#VirtualReality #Technology #Exploration"
+    },
+    {
+      "id": 4,
+      "author_img": "https://i.ibb.co/1XDgcGv/image.jpg",
+      "author_name": "Emily Davis",
+      "release_date": "2023-11-04",
+      "img": "https://i.ibb.co/713QGr7/download-6.jpg",
+      "title": "The Culinary Adventure",
+      "reading_time": 6,
+      "hashtag": "#Culinary #Food #Adventure"
+    },
+    {
+      "id": 5,
+      "author_img": "https://i.ibb.co/VHwkc6q/images-8.jpg",
+      "author_name": "Michael Brown",
+      "release_date": "2023-11-05",
+      "img": "https://i.ibb.co/YXtsbfB/images-6.jpg",
+      "title": "Beyond the Stars: Space Exploration",
+      "reading_time": 10,
+      "hashtag": "#Space #Exploration #Science"
+    },
+    {
+      "id": 6,
+      "author_img": "https://i.ibb.co/74yLXCF/photo-1559671430-7161cf426b4c.jpg",
+      "author_name": "Sarah White",
+      "release_date": "2023-11-06",
+      "img": "https://i.ibb.co/pz32JW6/images-5.jpg",
+      "title": "The Art of Photography",
+      "reading_time": 4,
+      "hashtag": "#Photography #Art #Creativity"
+    },
+    {
+      "id": 7,
+      "author_img": "https://i.ibb.co/2WDzxrx/pexels-photo-2608647.jpg",
+      "author_name": "Robert Clark",
+      "release_date": "2023-11-07",
+      "img": "https://i.ibb.co/RbRDsrX/download-5.jpg",
+      "title": "Exploring Ancient History",
+      "reading_time": 9,
+      "hashtag": "#History #Exploration #Archaeology"
+    },
+    {
+      "id": 8,
+      "author_img": "https://i.ibb.co/09Cr67Y/black-and-white-profile-sitting-thoughtful.jpg",
+      "author_name": "Linda Hall",
+      "release_date": "2023-11-08",
+      "img": "https://i.ibb.co/PjHMdsS/thumb-1920-36680.png",
+      "title": "The World of Wildlife",
+      "reading_time": 7,
+      "hashtag": "#Wildlife #Nature #Conservation"
+    },
+    {
+      "id": 9,
+      "author_img": "https://i.ibb.co/SvwWXyV/maharab-ope.png",
+      "author_name": "James Wilson",
+      "release_date": "2023-11-09",
+      "img": "https://i.ibb.co/WVNcRTD/qjr-E4yyfw5p-EPv-Db-JDzhd-NXM7mjt1tbr2k-M3-X28-F6-Sra-Zdfa-Zuw-Qa23cv-RRWz-LKp-Mrv-XGX1-BCjovsbg-Hb.jpg",
+      "title": "The Music Journey: From Beethoven to Beyoncé",
+      "reading_time": 6,
+      "hashtag": "#Music #Journey #Artists"
+    },
+    {
+      "id": 10,
+      "author_img": "https://i.ibb.co/SvwWXyV/maharab-ope.png",
+      "author_name": "Ava Roberts",
+      "release_date": "2023-11-10",
+      "img": "https://i.ibb.co/vjQgqk4/index.jpg",
+      "title": "The World of Travel: Adventures Await",
+      "reading_time": 8,
+      "hashtag": "#Travel #Adventure #Wanderlust"
+    }
+  ]
+  
